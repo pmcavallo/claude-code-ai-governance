@@ -25,3 +25,4 @@ venv/
 credentials*
 secrets*
 .env
+README_previous.md
