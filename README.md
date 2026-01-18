@@ -6,7 +6,7 @@
 
 AI tools are powerful but ungoverned. Personal use becomes production code. There are no audit trails. Standards drift.
 
-After 8 years validating models under SR 11-7 regulatory standards, I asked myself: **If I can't govern my own AI use, how can I help a company govern theirs?**
+After 5 years building models in a highly regulated environment, I asked myself: **If I can't govern my own AI use, how can I help a company govern theirs?**
 
 ## The Solution
 
@@ -30,7 +30,6 @@ This isn't theoretical—I used this framework to build four production-grade pr
 | **code-reviewer** | Reviews for quality, security, production readiness | After completing features |
 | **debugger** | Systematic error diagnosis and resolution | When tests fail or errors occur |
 | **learning-coach** | Tests understanding, identifies knowledge gaps | During skill development |
-| **career-advisor** | Evaluates opportunities against defined criteria | When assessing new roles |
 | **planner** | Breaks complex tasks into actionable steps | Before starting multi-step work |
 
 ### Why Specialized Agents?
@@ -179,7 +178,7 @@ Projects built using this framework:
 
 ## The Bridge Builder Positioning
 
-I'm transitioning from credit risk model validation to AI orchestration. This framework demonstrates:
+I'm transitioning from credit risk model development to AI orchestration. This framework demonstrates:
 
 1. **I understand governance** — Not as a checkbox, but as a design principle
 2. **I can build production systems** — Four projects with real metrics
@@ -200,12 +199,6 @@ Validates code against regulatory documentation standards. Checks for reproducib
 See [examples/agents/code-reviewer.md](examples/agents/code-reviewer.md)
 
 Reviews code for production readiness: type hints, error handling, security considerations, and maintainability.
-
-### Learning-Coach
-
-See [examples/agents/learning-coach.md](examples/agents/learning-coach.md)
-
-Tests understanding through scenarios, identifies knowledge gaps, and creates study plans. Tracks progress across sessions.
 
 ## Try It Yourself
 
